@@ -10,7 +10,8 @@ layout:
     visible: false
   pagination:
     visible: false
-google-site-verification: VYFpxXSzc2Atq3BHRWd_Wk9zDD_C3yO2fF4pShT9u-M
+tags:
+  - "google-site-verification: VYFpxXSzc2Atq3BHRWd_Wk9zDD_C3yO2fF4pShT9u-M"
 ---
 
 # Hướng dẫn chi tiết cách tham gia giải đấu Poker tại Top88
